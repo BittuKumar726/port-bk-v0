@@ -37,7 +37,7 @@ const NavBar = () => {
       className={navColor ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/" borderRadius="60px">
+        <Navbar.Brand href="/port-bk" borderRadius="60px">
           <img
             src={logo1}
             className="img-fluid logo"
